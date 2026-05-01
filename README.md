@@ -28,7 +28,7 @@
 
 You must run these commands on your server:  
 `git clone https://github.com/UltraN0va288/Aether`  
-`cd Cosmic`  
+`cd Aether`  
 `npm install`  
 `npm start`
 

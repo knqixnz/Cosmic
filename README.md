@@ -27,7 +27,7 @@
 ### Server Deployment
 
 You must run these commands on your server:  
-`git clone https://github.com/UltraN0va288/Aether`  
+`git clone https://github.com/knqixnz/Aether`  
 `cd Aether`  
 `npm install`  
 `npm start`
